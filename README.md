@@ -99,9 +99,9 @@ ALARM	Κάτω από 16°C ή πάνω από 29°C	Κόκκινο LED Matrix
 •	Αναμονή 5 δευτερολέπτων.
 •	Επανάληψη της διαδικασίας.
 
-9. Α. Υλοποίηση σε Python με Thonny .  Λειτούργησε σε Model Raspberry Pi 5 rev 1.0 (4 GB) ,  Operating system Raspberry Pi OS 12 64 bit ,  (Bookworm) Kernel architecture aarch64 . 
-     [TempGuard.py](TempGuard.py)
-   Β. Simulation με κάποιες αλλαγές λόγω ασυμβατότητας με τον κώδικα που έπαιξε στο  Raspberry Pi5 https://trinket.io/python/0633be455999
+9. - Υλοποίηση σε Python με Thonny .  Λειτούργησε σε Model Raspberry Pi 5 rev 1.0 (4 GB) ,  Operating system Raspberry Pi OS 12 64 bit ,  (Bookworm) Kernel architecture aarch64 . 
+     [TempGuard.py](TempGuard.py)  
+   - Simulation με κάποιες αλλαγές λόγω ασυμβατότητας με τον κώδικα που έπαιξε στο  Raspberry Pi5 https://trinket.io/python/0633be455999
    
 11. Επεξήγηση του κώδικα
 •	Η συνάρτηση read_temperature() παίρνει δύο μετρήσεις θερμοκρασίας από το Sense HAT και βρίσκει τον μέσο όρο τους, ώστε η ένδειξη να είναι πιο σταθερή.
