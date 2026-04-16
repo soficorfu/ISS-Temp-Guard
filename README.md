@@ -120,24 +120,24 @@ ALARM	Κάτω από 16°C ή πάνω από 29°C	Κόκκινο LED Matrix
 
 13. ΕΙΚΟΝΕΣ
 
-                         Προγραμματισμός στο Thonny και σύνδεση στο Raspberry 5 μέσω Pi connect 
+                                      Προγραμματισμός στο Thonny και σύνδεση στο Raspberry 5 μέσω Pi connect 
 
   <p align="center">
   <img src="images/1.jpg" alt="Εικόνα 1" width="60%">
 </p>
 
-                         Πράσινο χρώμα - ΟΚ θερμοκρασία εντός ορίων 
+                                      Πράσινο χρώμα - ΟΚ θερμοκρασία εντός ορίων 
   <p align="center">
   <img src="images/2.jpg" alt="Εικόνα 2" width="60%">
 </p>
 
-                        Κίτρινο  χρώμα - Warning  θερμοκρασία οριακά εκτός  ορίων 
+                                      Κίτρινο  χρώμα - Warning  θερμοκρασία οριακά εκτός  ορίων 
    
  <p align="center">
   <img src="images/3.jpg" alt="Εικόνα 3" width="60%">
 </p>
 
-                         Κόκκινο χρώμα  - ALARM  θερμοκρασία πολύ εκτός ορίων 
+                                      Κόκκινο χρώμα  - ALARM  θερμοκρασία πολύ εκτός ορίων 
  
 <p align="center">
   <img src="images/4.jpg" alt="Εικόνα 4" width="60%">
